@@ -1,0 +1,14 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Joe Smith",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane Gronk",
+      "type": 2
+    }
+  ]
+}
